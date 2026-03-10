@@ -33,7 +33,7 @@ This system dynamically assigns incoming logistics orders to a fleet of vehicles
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/SONAI-07/dispatchLoadBalancer.git
-
+   cd dispatchLoadBalancer
 * 2.Configure the Database:
  ```bash
      spring.datasource.url=jdbc:postgresql://localhost:5432/dispatch
