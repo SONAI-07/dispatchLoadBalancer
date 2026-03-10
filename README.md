@@ -32,7 +32,7 @@ This system dynamically assigns incoming logistics orders to a fleet of vehicles
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/SONAI-07/dispatchLoadBalancer.git
 
 * 2.Configure the Database:
  ```bash
